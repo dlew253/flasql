@@ -1,0 +1,6 @@
+lib\nbin\n__pycache__/\ninstance/\n.webassets-cache\n.vscode\n.DS_Store
+bin
+include
+lib
+lib64
+pyenv.cfg
